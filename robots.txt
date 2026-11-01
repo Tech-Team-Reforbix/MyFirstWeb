@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+# REPLACE example domain below with your real domain
+Sitemap: https://www.reforbix.com/sitemap.xml
